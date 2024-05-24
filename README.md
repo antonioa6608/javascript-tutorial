@@ -8,3 +8,5 @@ creating a instance so for example const doctorAlexander = new Doctor('Alexander
 to print out the value stored it would be something like this , console.log(doctorAlexander);
 
 # To conclude : classes make your code from readable and efficent when trying to write the same code over and over. 
+
+![picture](https://github.com/antonioa6608/javascript-tutorial/assets/90696477/a513b8f5-bdb8-4591-ba32-6862463e6320)
