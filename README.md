@@ -7,4 +7,4 @@ getters which gets the instances in the constructor
 creating a instance so for example const doctorAlexander = new Doctor('Alexander', 'true');
 to print out the value stored it would be something like this , console.log(doctorAlexander);
 
-# To conconlude : classes make your code from readable and efficent when trying to write the same code over and over. 
+# To conclude : classes make your code from readable and efficent when trying to write the same code over and over. 
