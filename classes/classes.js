@@ -39,6 +39,21 @@ class HospitalEmployee {
     addCertification(newCertification) {
       this.certifications.push(newCertification);
     }
+
+  }
+
+  //can add getters methods
+  //create a new subclass that extends from the parent class
+  class Doctor extends HospitalEmployee{
+    //create constructor 
+    constructor(name,insurance){
+      super(name);
+      this._insurance=insurance;
+      this._remainingVacationDays=20;
+    }
+
+    
+
   }
   //create a new instance 
   const nurseOlynyk = new Nurse('Olynyk', ['Trauma','Pediatrics']);
